@@ -1,5 +1,5 @@
 # CSMVI16-Visual-Intelligence-CW1
-Land Cover Classification using ML
+Land Cover Classification using Maximum Likelihood
 
 Files included:
 1. Ground Truth data.mat file
